@@ -1,4 +1,4 @@
-# PRO C157 Create Thumbnails
+# Adding Cursor
 
 
-Create a basic structure for the virtual tour. Create the HTML page for the virtual tour and add the content as entities to the page.
+Implemented A-Frame cursor component. The mouseenter and mouseleave events associated with the A-Frame cursor component. Added an A-Frame cursor ring. Function to change the color of the selected thumbnail ring on the mouseenter event.
